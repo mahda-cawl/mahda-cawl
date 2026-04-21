@@ -15,7 +15,6 @@
         <li>🛡️ <b>Cybersecurity Enthusiast</b></li>
         <li>💻 <b>Full-Stack Developer</b></li>
         <li>📱 <b>Mobile App Developer (Flutter & Dart)</b></li>
-        <li>🏆 <b>Hackathon Participant</b></li>
       </ul>
     </td>
     <td width="40%">
