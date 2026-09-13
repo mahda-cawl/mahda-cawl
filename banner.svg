@@ -1,0 +1,532 @@
+<svg
+  width="1200"
+  height="430"
+  viewBox="0 0 1200 430"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <defs>
+
+    <!-- Background -->
+    <linearGradient id="background" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06101d"/>
+      <stop offset="45%" stop-color="#0b1028"/>
+      <stop offset="75%" stop-color="#17102d"/>
+      <stop offset="100%" stop-color="#21150c"/>
+    </linearGradient>
+
+    <!-- Main name gradient -->
+    <linearGradient id="nameGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00eaff"/>
+      <stop offset="25%" stop-color="#4facfe"/>
+      <stop offset="50%" stop-color="#a78bfa"/>
+      <stop offset="75%" stop-color="#f472b6"/>
+      <stop offset="100%" stop-color="#ffd43b"/>
+    </linearGradient>
+
+    <!-- Cyan/Purple gradient -->
+    <linearGradient id="coolGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00eaff"/>
+      <stop offset="50%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#c084fc"/>
+    </linearGradient>
+
+    <!-- Warm gradient -->
+    <linearGradient id="warmGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f472b6"/>
+      <stop offset="50%" stop-color="#fb7185"/>
+      <stop offset="100%" stop-color="#ffd43b"/>
+    </linearGradient>
+
+    <!-- Border gradient -->
+    <linearGradient id="borderGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00eaff"/>
+      <stop offset="25%" stop-color="#3b82f6"/>
+      <stop offset="50%" stop-color="#a855f7"/>
+      <stop offset="75%" stop-color="#ec4899"/>
+      <stop offset="100%" stop-color="#ffd43b"/>
+    </linearGradient>
+
+    <!-- Location gradient -->
+    <linearGradient id="locationGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00eaff"/>
+      <stop offset="50%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#ffd43b"/>
+    </linearGradient>
+
+    <!-- Glow -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Strong glow -->
+    <filter id="strongGlow">
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Small glow -->
+    <filter id="smallGlow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Clip -->
+    <clipPath id="rounded">
+      <rect x="10" y="10" width="1180" height="380" rx="30"/>
+    </clipPath>
+
+    <!-- Star -->
+    <radialGradient id="star">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="40%" stop-color="#67e8f9"/>
+      <stop offset="100%" stop-color="#67e8f9" stop-opacity="0"/>
+    </radialGradient>
+
+  </defs>
+
+  <!-- ====================================================== -->
+  <!-- BACKGROUND -->
+  <!-- ====================================================== -->
+
+  <rect
+    x="10"
+    y="10"
+    width="1180"
+    height="380"
+    rx="30"
+    fill="url(#background)"
+  />
+
+  <!-- Background glow -->
+  <ellipse
+    cx="190"
+    cy="170"
+    rx="260"
+    ry="190"
+    fill="#00eaff"
+    opacity="0.08"
+  >
+    <animate
+      attributeName="opacity"
+      values="0.04;0.12;0.04"
+      dur="5s"
+      repeatCount="indefinite"
+    />
+  </ellipse>
+
+  <ellipse
+    cx="1000"
+    cy="250"
+    rx="300"
+    ry="220"
+    fill="#ff9f1c"
+    opacity="0.06"
+  >
+    <animate
+      attributeName="opacity"
+      values="0.03;0.10;0.03"
+      dur="6s"
+      repeatCount="indefinite"
+    />
+  </ellipse>
+
+  <!-- ====================================================== -->
+  <!-- STARS -->
+  <!-- ====================================================== -->
+
+  <g opacity="0.8">
+
+    <circle cx="90" cy="80" r="2" fill="#ffffff">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="170" cy="300" r="2" fill="#67e8f9">
+      <animate attributeName="opacity" values="1;0.2;1" dur="3s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="300" cy="70" r="2" fill="#a78bfa">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="4s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="520" cy="55" r="2" fill="#ffffff">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="700" cy="85" r="2" fill="#c084fc">
+      <animate attributeName="opacity" values="1;0.2;1" dur="3.5s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="850" cy="55" r="2" fill="#67e8f9">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.7s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="1040" cy="100" r="2" fill="#ffffff">
+      <animate attributeName="opacity" values="1;0.2;1" dur="3.2s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="1120" cy="290" r="2" fill="#ffd43b">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="970" cy="340" r="2" fill="#f472b6">
+      <animate attributeName="opacity" values="1;0.2;1" dur="3.8s" repeatCount="indefinite"/>
+    </circle>
+
+  </g>
+
+  <!-- ====================================================== -->
+  <!-- ORBIT -->
+  <!-- ====================================================== -->
+
+  <ellipse
+    cx="600"
+    cy="190"
+    rx="420"
+    ry="115"
+    fill="none"
+    stroke="url(#coolGradient)"
+    stroke-width="2"
+    opacity="0.45"
+    transform="rotate(8 600 190)"
+  />
+
+  <ellipse
+    cx="600"
+    cy="190"
+    rx="420"
+    ry="115"
+    fill="none"
+    stroke="url(#warmGradient)"
+    stroke-width="1"
+    opacity="0.25"
+    transform="rotate(-8 600 190)"
+  />
+
+  <!-- Moving orbit light -->
+  <circle
+    cx="180"
+    cy="190"
+    r="6"
+    fill="#00eaff"
+    filter="url(#strongGlow)"
+  >
+    <animateMotion
+      dur="8s"
+      repeatCount="indefinite"
+      path="M 0,0 A 420,115 8 1,1 840,0 A 420,115 8 1,1 0,0"
+    />
+  </circle>
+
+  <!-- ====================================================== -->
+  <!-- TOP LEFT CODE ICON -->
+  <!-- ====================================================== -->
+
+  <g transform="translate(65 65)" filter="url(#glow)">
+
+    <text
+      x="0"
+      y="45"
+      font-family="monospace"
+      font-size="58"
+      font-weight="bold"
+      fill="url(#coolGradient)"
+    >
+      &lt;/&gt;
+    </text>
+
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      values="65 65;65 59;65 65"
+      dur="3s"
+      repeatCount="indefinite"
+    />
+
+  </g>
+
+  <!-- ====================================================== -->
+  <!-- TOP RIGHT STATUS DOTS -->
+  <!-- ====================================================== -->
+
+  <circle cx="1110" cy="65" r="7" fill="#00eaff" filter="url(#smallGlow)">
+    <animate attributeName="opacity" values="1;0.3;1" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="1135" cy="65" r="7" fill="#c084fc" filter="url(#smallGlow)">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="1160" cy="65" r="7" fill="#ffd43b" filter="url(#smallGlow)">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- ====================================================== -->
+  <!-- MAIN NAME -->
+  <!-- ====================================================== -->
+
+  <text
+    x="600"
+    y="190"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="78"
+    font-weight="900"
+    fill="url(#nameGradient)"
+    filter="url(#strongGlow)"
+  >
+    Mahda Cawl
+
+    <animate
+      attributeName="opacity"
+      values="0.75;1;0.75"
+      dur="3s"
+      repeatCount="indefinite"
+    />
+
+  </text>
+
+  <!-- ====================================================== -->
+  <!-- SHINE THROUGH NAME -->
+  <!-- ====================================================== -->
+
+  <rect
+    x="310"
+    y="125"
+    width="30"
+    height="100"
+    rx="15"
+    fill="#ffffff"
+    opacity="0.25"
+    filter="url(#glow)"
+    transform="rotate(20 325 175)"
+  >
+    <animate
+      attributeName="x"
+      values="300;870;300"
+      dur="5s"
+      repeatCount="indefinite"
+    />
+  </rect>
+
+  <!-- ====================================================== -->
+  <!-- ROLE -->
+  <!-- ====================================================== -->
+
+  <text
+    x="600"
+    y="245"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="25"
+    font-weight="700"
+    fill="url(#coolGradient)"
+    filter="url(#glow)"
+  >
+    💻 Full-Stack Developer
+    <tspan fill="#ffffff"> • </tspan>
+    <tspan fill="#c084fc">🎨 UI/UX Designer</tspan>
+    <tspan fill="#ffffff"> • </tspan>
+    <tspan fill="#ffd43b">🤖 AI Engineer</tspan>
+  </text>
+
+  <!-- ====================================================== -->
+  <!-- LOCATION PILL -->
+  <!-- ====================================================== -->
+
+  <rect
+    x="385"
+    y="275"
+    width="430"
+    height="55"
+    rx="28"
+    fill="#0a1024"
+    stroke="url(#locationGradient)"
+    stroke-width="2"
+    filter="url(#glow)"
+  >
+    <animate
+      attributeName="stroke-width"
+      values="2;4;2"
+      dur="2.5s"
+      repeatCount="indefinite"
+    />
+  </rect>
+
+  <text
+    x="600"
+    y="311"
+    text-anchor="middle"
+    font-family="monospace"
+    font-size="22"
+    font-weight="700"
+    fill="#67e8f9"
+  >
+    📍 Hargeisa, Somaliland
+  </text>
+
+  <!-- ====================================================== -->
+  <!-- AI CHIP -->
+  <!-- ====================================================== -->
+
+  <g filter="url(#glow)">
+
+    <rect
+      x="1015"
+      y="175"
+      width="105"
+      height="80"
+      rx="18"
+      fill="#111329"
+      stroke="url(#warmGradient)"
+      stroke-width="2"
+    />
+
+    <text
+      x="1067"
+      y="225"
+      text-anchor="middle"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="34"
+      font-weight="900"
+      fill="url(#warmGradient)"
+    >
+      AI
+    </text>
+
+    <line x1="1005" y1="195" x2="1015" y2="195" stroke="#c084fc" stroke-width="3"/>
+    <line x1="1005" y1="235" x2="1015" y2="235" stroke="#00eaff" stroke-width="3"/>
+    <line x1="1120" y1="195" x2="1130" y2="195" stroke="#ffd43b" stroke-width="3"/>
+    <line x1="1120" y1="235" x2="1130" y2="235" stroke="#f472b6" stroke-width="3"/>
+
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      values="0 0;0 -8;0 0"
+      dur="4s"
+      repeatCount="indefinite"
+    />
+
+  </g>
+
+  <!-- ====================================================== -->
+  <!-- BOTTOM WAVES -->
+  <!-- ====================================================== -->
+
+  <path
+    d="M 10 350
+       C 120 300, 170 390, 270 350
+       S 430 300, 520 355
+       S 700 400, 790 350
+       S 970 300, 1190 350
+       L 1190 390
+       L 10 390 Z"
+    fill="url(#coolGradient)"
+    opacity="0.13"
+  >
+    <animate
+      attributeName="d"
+      dur="8s"
+      repeatCount="indefinite"
+      values="
+      M 10 350 C 120 300,170 390,270 350 S 430 300,520 355 S 700 400,790 350 S 970 300,1190 350 L1190 390 L10 390 Z;
+      M 10 350 C 120 390,170 300,270 350 S 430 390,520 345 S 700 300,790 350 S 970 390,1190 350 L1190 390 L10 390 Z;
+      M 10 350 C 120 300,170 390,270 350 S 430 300,520 355 S 700 400,790 350 S 970 300,1190 350 L1190 390 L10 390 Z
+      "
+    />
+  </path>
+
+  <path
+    d="M 700 390
+       C 800 330, 850 390, 930 350
+       S 1080 300, 1190 335
+       L 1190 390 Z"
+    fill="url(#warmGradient)"
+    opacity="0.16"
+  />
+
+  <!-- ====================================================== -->
+  <!-- BORDER -->
+  <!-- ====================================================== -->
+
+  <rect
+    x="10"
+    y="10"
+    width="1180"
+    height="380"
+    rx="30"
+    fill="none"
+    stroke="url(#borderGradient)"
+    stroke-width="3"
+    filter="url(#smallGlow)"
+  />
+
+  <!-- ====================================================== -->
+  <!-- ROCKET -->
+  <!-- ====================================================== -->
+
+  <g filter="url(#glow)">
+
+    <text
+      x="600"
+      y="415"
+      text-anchor="middle"
+      font-size="32"
+    >
+      🚀
+    </text>
+
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      values="0 5;0 -8;0 5"
+      dur="2s"
+      repeatCount="indefinite"
+    />
+
+  </g>
+
+  <!-- ====================================================== -->
+  <!-- SCROLL CHEVRONS -->
+  <!-- ====================================================== -->
+
+  <g
+    fill="none"
+    stroke="#00eaff"
+    stroke-width="4"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    filter="url(#smallGlow)"
+  >
+
+    <path d="M 585 425 L 600 440 L 615 425">
+      <animate
+        attributeName="opacity"
+        values="0.2;1;0.2"
+        dur="1.5s"
+        repeatCount="indefinite"
+      />
+    </path>
+
+    <path d="M 585 438 L 600 453 L 615 438">
+      <animate
+        attributeName="opacity"
+        values="0.2;1;0.2"
+        dur="1.5s"
+        begin="0.3s"
+        repeatCount="indefinite"
+      />
+    </path>
+
+  </g>
+
+</svg>
