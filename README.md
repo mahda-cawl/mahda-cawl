@@ -1,187 +1,120 @@
-<div align="center">
-
-<img src="./banner.png" width="100%" alt="Mahda Cawl Banner">
-
-<br><br>
-
-# ✨ Mahda Cawl
-
-### 💻 Full-Stack Developer • 🎨 UI/UX Designer • 🤖 AI Engineer
-
-📍 **Hargeisa, Somaliland**
-
-</div>
-
----
-
-<div align="center">
-
-## 👋 Welcome to My Profile
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding Animation">
-
-</div>
-
----
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-## 💫 About Me
-
-I'm **Mahda Cawl**, a passionate **Software Engineering student** interested in building modern and useful applications.
-
-- 💻 **Full-Stack Developer**
-- 🎨 **UI/UX Designer**
-- 📱 **Mobile App Developer**
-- 🤖 **AI Engineer / AI Explorer**
-- 🛡️ **Cybersecurity Enthusiast**
-- 🚀 **Always learning & building**
-
-I love transforming ideas into real-world digital products and creating clean, modern and user-friendly experiences.
-
-</td>
-
-<td width="45%" align="center">
-
-<img 
-src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN4bm94bm94bm94bm94bm94bm94bm94bm94bm94bm94JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1QHpHv0xNfIAn6H/giphy.gif" 
-width="300"
-alt="Developer Animation">
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-# 🛠️ Tech Stack
-
-</div>
-
-### 🎨 Frontend
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-
-</div>
-
-### ⚙️ Backend
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-
-</div>
-
-### 📱 Mobile Development
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-<img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white">
-
-</div>
-
-### 🗄️ Databases
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
-
-</div>
-
-### 🔧 Tools & Technologies
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-
-</div>
-
----
-
-<div align="center">
-
-# 📊 GitHub Statistics
-
-<br>
-
-<img 
-src="https://github-readme-stats.vercel.app/api?username=mahda-cawl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-alt="Mahda Cawl GitHub Stats">
-
-<br><br>
-
-<img 
-src="https://github-readme-streak-stats.herokuapp.com/?user=mahda-cawl&theme=tokyonight&hide_border=true"
-alt="GitHub Streak">
-
-</div>
-
----
-
-<div align="center">
-
-# 📈 GitHub Activity
-
-<img 
-src="https://github-readme-activity-graph.vercel.app/graph?username=mahda-cawl&theme=tokyo-night&hide_border=true"
-width="100%"
-alt="GitHub Activity Graph">
-
-</div>
-
----
-
-<div align="center">
-
-# 🤝 Connect With Me
-
-<br>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://instagram.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 💜 Thanks for visiting my profile!
-
-<br>
-
-<img 
-src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"
-width="100%"
-alt="Footer">
-
-</div>
+<svg width="100%" height="320" viewBox="0 0 900 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050810"/>
+      <stop offset="45%" stop-color="#0b1024"/>
+      <stop offset="100%" stop-color="#150a2e"/>
+    </linearGradient>
+
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="50%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#facc15"/>
+    </linearGradient>
+
+    <linearGradient id="subGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#67e8f9"/>
+      <stop offset="100%" stop-color="#c4b5fd"/>
+    </linearGradient>
+
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <radialGradient id="orbGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#67e8f9" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#67e8f9" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbGlow2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#facc15" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#facc15" stop-opacity="0"/>
+    </radialGradient>
+
+    <clipPath id="frameClip">
+      <rect x="0" y="0" width="900" height="320" rx="18"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frameClip)">
+    <rect width="900" height="320" fill="url(#bgGrad)"/>
+
+    <!-- ambient glow orbs -->
+    <circle cx="120" cy="60" r="140" fill="url(#orbGlow)">
+      <animate attributeName="opacity" values="0.5;0.9;0.5" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="800" cy="270" r="160" fill="url(#orbGlow2)">
+      <animate attributeName="opacity" values="0.4;0.8;0.4" dur="5s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- starfield -->
+    <g fill="#ffffff">
+      <circle cx="60" cy="40" r="1.4" opacity="0.7"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/></circle>
+      <circle cx="820" cy="35" r="1.6" opacity="0.6"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.6s" repeatCount="indefinite"/></circle>
+      <circle cx="760" cy="90" r="1.2" opacity="0.5"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="3.4s" repeatCount="indefinite"/></circle>
+      <circle cx="50" cy="260" r="1.5" opacity="0.6"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.9s" repeatCount="indefinite"/></circle>
+      <circle cx="870" cy="230" r="1.3" opacity="0.5"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="3.7s" repeatCount="indefinite"/></circle>
+      <circle cx="450" cy="20" r="1.1" opacity="0.5"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="3.1s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <!-- rotating 3D-ish tech ring behind text -->
+    <g transform="translate(450,150)">
+      <ellipse cx="0" cy="0" rx="330" ry="60" fill="none" stroke="#22d3ee" stroke-opacity="0.18" stroke-width="1.5">
+        <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="18s" repeatCount="indefinite"/>
+      </ellipse>
+      <ellipse cx="0" cy="0" rx="280" ry="100" fill="none" stroke="#a78bfa" stroke-opacity="0.14" stroke-width="1.2">
+        <animateTransform attributeName="transform" type="rotate" from="360 0 0" to="0 0 0" dur="24s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
+
+    <!-- floating code brackets, subtle wobble -->
+    <text x="70" y="120" font-family="Consolas, 'Courier New', monospace" font-weight="700" font-size="46" fill="#22d3ee" fill-opacity="0.35">
+      &lt;/&gt;
+      <animate attributeName="y" values="120;110;120" dur="3.5s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="790" y="250" font-family="Consolas, 'Courier New', monospace" font-weight="700" font-size="40" fill="#facc15" fill-opacity="0.3">
+       
+AI 
+      <animate attributeName="y" values="250;262;250" dur="4s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- main name -->
+    <text x="450" y="148" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-weight="800" font-size="58" fill="url(#textGrad)" filter="url(#glow)">
+      Abdifatah Bashe
+      <animate attributeName="opacity" values="0.75;1;0.75" dur="3s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- subtitle -->
+    <text x="450" y="192" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-weight="600" font-size="22" letter-spacing="1" fill="url(#subGrad)" filter="url(#softGlow)">
+      Full-Stack Developer • UI/UX Designer • AI Engineer
+    </text>
+
+    <!-- tagline pill -->
+    <g transform="translate(450,236)">
+      <rect x="-190" y="-18" width="380" height="36" rx="18" fill="#0f172a" stroke="#22d3ee" stroke-opacity="0.5"/>
+      <text x="0" y="6" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#67e8f9">
+        🤖 Hargeisa, Somaliland
+      </text>
+    </g>
+
+    <!-- bottom scan line glow -->
+    <rect x="0" y="308" width="900" height="2" fill="url(#textGrad)" opacity="0.6">
+      <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <rect x="1" y="1" width="898" height="318" rx="18" fill="none" stroke="url(#textGrad)" stroke-opacity="0.4" stroke-width="1.5"/>
+</svg>
