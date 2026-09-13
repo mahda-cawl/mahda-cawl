@@ -10,7 +10,7 @@
 
 <div align="center">
 
-# ✨ Mahda Cawl
+
 
 ### 💻 Full-Stack Developer • 🎨 UI/UX Designer • 🤖 AI Engineer
 
