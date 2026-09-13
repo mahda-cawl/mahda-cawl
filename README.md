@@ -13,8 +13,6 @@
 
 <div align="center">
 
-📍 **Hargeisa, Somaliland**
-
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mahda-cawl&label=Profile%20Views&color=blueviolet&style=for-the-badge)
