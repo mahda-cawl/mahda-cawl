@@ -2,29 +2,38 @@
 <!--                    MAHDA CAWL PROFILE                     -->
 <!-- ========================================================= -->
 
+<!-- 🌌 Animated Banner -->
 <p align="center">
-  <img src="./banner.svg" width="100%" alt="Mahda Cawl Banner">
+  <img src="./banner.svg" width="100%" alt="Mahda Cawl Animated Banner">
 </p>
 
 <br>
 
+<!-- 👩‍💻 Introduction -->
+
 <div align="center">
 
-
+# ✨ Mahda Cawl
 
 ### 💻 Full-Stack Developer • 🎨 UI/UX Designer • 🤖 AI Engineer
 
 📍 **Hargeisa, Somaliland**
 
-</div>
-
 <br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=mahda-cawl&label=Profile%20Views&color=blueviolet&style=for-the-badge)
+
+</div>
 
 ---
 
+<!-- ========================================================= -->
+<!--                     WELCOME SECTION                       -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-## 👋 Welcome to My Profile
+# 👋 Welcome to My Profile
 
 <img
   src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
@@ -32,11 +41,17 @@
   alt="Coding Animation"
 />
 
+### 🚀 Building ideas into real-world digital products
+
 </div>
 
 ---
 
-## 💫 About Me
+<!-- ========================================================= -->
+<!--                       ABOUT ME                            -->
+<!-- ========================================================= -->
+
+# 💫 About Me
 
 <table>
 <tr>
@@ -54,11 +69,21 @@ I'm **Mahda Cawl**, a passionate **Software Engineering student** interested in 
 - 🛡️ **Cybersecurity Exploration**
 - 🌱 **Continuous Learning & Building**
 
-I enjoy transforming ideas into **real-world digital products** and learning new technologies along the way.
+I enjoy transforming ideas into **real-world digital products** and exploring new technologies.
 
 ### 🎯 My Goal
 
 > To build innovative software that solves real problems and creates meaningful digital experiences.
+
+### 💡 My Interests
+
+- 🌐 Modern Web Applications
+- 📱 Mobile Applications
+- 🤖 Artificial Intelligence
+- 🔐 Cybersecurity
+- 🎨 User Experience
+- ⚙️ Software Architecture
+- 🚀 Automation
 
 </td>
 
@@ -76,6 +101,10 @@ I enjoy transforming ideas into **real-world digital products** and learning new
 </table>
 
 ---
+
+<!-- ========================================================= -->
+<!--                       TECH STACK                          -->
+<!-- ========================================================= -->
 
 # 🛠️ Tech Stack
 
@@ -100,7 +129,7 @@ I enjoy transforming ideas into **real-world digital products** and learning new
 
 <br><br>
 
-## 📱 Mobile
+## 📱 Mobile Development
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
@@ -127,68 +156,90 @@ I enjoy transforming ideas into **real-world digital products** and learning new
 
 ---
 
-# 📊 GitHub Statistics
+<!-- ========================================================= -->
+<!--                  CURRENTLY WORKING ON                     -->
+<!-- ========================================================= -->
+
+# 🚀 Currently Working On
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=mahda-cawl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-  height="180"
-  alt="Mahda's GitHub Stats"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahda-cawl&layout=compact&theme=tokyonight&hide_border=true"
-  height="180"
-  alt="Top Languages"
-/>
-
-<br><br>
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=mahda-cawl&theme=tokyonight&hide_border=true"
-  alt="GitHub Streak"
-/>
+| 🚀 Area | 💡 Focus |
+|:---:|:---|
+| 💻 Web Development | Building Full-Stack Applications |
+| 📱 Mobile Development | Flutter & Dart Applications |
+| 🤖 Artificial Intelligence | AI Integration & Automation |
+| 🎨 UI/UX | Modern Interfaces & User Experience |
+| 🛡️ Cybersecurity | Secure Web Applications |
+| ⚙️ Backend | Django, Python & APIs |
 
 </div>
 
 ---
 
-# 🚀 What I'm Currently Exploring
+<!-- ========================================================= -->
+<!--                       PROJECTS                            -->
+<!-- ========================================================= -->
+
+# 📂 Featured Projects
 
 <div align="center">
 
-| 💻 Development | 🤖 AI | 🎨 Design | 🛡️ Security |
-|:---:|:---:|:---:|:---:|
-| Full-Stack Apps | AI Integration | UI/UX | Cybersecurity |
-| Django | AI Tools | Figma | Secure Coding |
-| Flutter | Automation | Prototyping | Web Security |
+### 🛒 E-Commerce Web Application
+
+A modern **Django-based E-Commerce platform** with authentication, products, cart functionality and database integration.
+
+**Tech:** Python • Django • HTML • CSS • JavaScript • MySQL
+
+<br>
+
+### 📱 Mobile Application
+
+A modern mobile application developed using **Flutter & Dart**, focused on clean UI and useful functionality.
+
+**Tech:** Flutter • Dart • Firebase
+
+<br>
+
+### 🤖 AI Integration Projects
+
+Exploring ways to integrate **Artificial Intelligence** into modern web and mobile applications.
+
+**Tech:** Python • AI APIs • Django • Flutter
 
 </div>
 
 ---
+
+<!-- ========================================================= -->
+<!--                    LEARNING JOURNEY                       -->
+<!-- ========================================================= -->
 
 # 🌱 Learning Journey
 
 ```text
-Software Engineering
-        │
-        ├── 💻 Full-Stack Development
-        │      ├── Frontend
-        │      └── Backend
-        │
-        ├── 📱 Mobile Development
-        │      ├── Flutter
-        │      └── Dart
-        │
-        ├── 🤖 Artificial Intelligence
-        │      ├── AI Integration
-        │      └── Automation
-        │
-        ├── 🎨 UI/UX Design
-        │      ├── Figma
-        │      └── User Experience
-        │
-        └── 🛡️ Cybersecurity
-               ├── Web Security
-               └── Secure Development
+                         👩‍💻 SOFTWARE ENGINEERING
+                                  │
+             ┌────────────────────┼────────────────────┐
+             │                    │                    │
+             ▼                    ▼                    ▼
+       💻 DEVELOPMENT        📱 MOBILE              🤖 AI
+             │                    │                    │
+        ┌────┴────┐          ┌────┴────┐         ┌────┴────┐
+        │         │          │         │         │         │
+        ▼         ▼          ▼         ▼         ▼         ▼
+    Frontend   Backend     Flutter    Dart     AI Tools  Automation
+        │         │
+        ▼         ▼
+      React     Django
+      HTML      Python
+      CSS       APIs
+
+             ┌────────────────────┴────────────────────┐
+             │                                         │
+             ▼                                         ▼
+        🎨 UI/UX DESIGN                         🛡️ CYBERSECURITY
+             │                                         │
+        ┌────┴────┐                              ┌─────┴─────┐
+        ▼         ▼                              ▼           ▼
+      Figma    Prototyping                  Web Security  Secure Coding
