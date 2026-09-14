@@ -170,6 +170,43 @@ I enjoy transforming ideas into **real-world digital products** and exploring ne
 ---
 
 <!-- ========================================================= -->
+<!--                    FEATURED PROJECTS                       -->
+<!-- ========================================================= -->
+
+# 📂 Featured Projects
+
+<div align="center">
+
+### 🛒 E-Commerce Web Application
+
+A modern **Django-based E-Commerce platform** with authentication,
+products, cart functionality, CRUD operations, and database integration.
+
+**Tech:** Python • Django • HTML • CSS • JavaScript • MySQL
+
+---
+
+### 📱 Mobile Application
+
+A modern mobile application developed using **Flutter & Dart**,
+focused on clean UI, useful functionality, and smooth user experience.
+
+**Tech:** Flutter • Dart • Firebase
+
+---
+
+### 🤖 AI Integration Projects
+
+Exploring ways to integrate **Artificial Intelligence**
+into modern web and mobile applications.
+
+**Tech:** Python • AI APIs • Django • Flutter
+
+</div>
+
+---
+
+<!-- ========================================================= -->
 <!--                    LEARNING JOURNEY                       -->
 <!-- ========================================================= -->
 
