@@ -9,20 +9,23 @@
 
 <br>
 
-<!-- 👩‍💻 Introduction -->
-
+<!-- 👩‍💻 PROFILE INTRO -->
 <div align="center">
 
-<br>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=mahda-cawl&label=Profile%20Views&color=blueviolet&style=for-the-badge)
+
+<br><br>
+
+### 💻 Full-Stack Developer • 🎨 UI/UX Designer • 🤖 AI Engineer
+
+📍 **Hargeisa, Somaliland**
 
 </div>
 
 ---
 
 <!-- ========================================================= -->
-<!--                     WELCOME SECTION                       -->
+<!--                     WELCOME SECTION                        -->
 <!-- ========================================================= -->
 
 <div align="center">
@@ -42,7 +45,7 @@
 ---
 
 <!-- ========================================================= -->
-<!--                       ABOUT ME                            -->
+<!--                       ABOUT ME                             -->
 <!-- ========================================================= -->
 
 # 💫 About Me
@@ -97,14 +100,14 @@ I enjoy transforming ideas into **real-world digital products** and exploring ne
 ---
 
 <!-- ========================================================= -->
-<!--                       TECH STACK                          -->
+<!--                       TECH STACK                           -->
 <!-- ========================================================= -->
 
 # 🛠️ Tech Stack
 
 <div align="center">
 
-## 🎨 Frontend
+### 🎨 Frontend
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -114,7 +117,7 @@ I enjoy transforming ideas into **real-world digital products** and exploring ne
 
 <br><br>
 
-## ⚙️ Backend
+### ⚙️ Backend
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
@@ -123,7 +126,7 @@ I enjoy transforming ideas into **real-world digital products** and exploring ne
 
 <br><br>
 
-## 📱 Mobile Development
+### 📱 Mobile Development
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
@@ -131,7 +134,15 @@ I enjoy transforming ideas into **real-world digital products** and exploring ne
 
 <br><br>
 
-## 🗄️ Databases
+### 🤖 AI & Automation
+
+<img src="https://img.shields.io/badge/Python_AI-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/AI_Integration-8A2BE2?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge&logo=robotframework&logoColor=white">
+
+<br><br>
+
+### 🗄️ Databases
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -139,7 +150,7 @@ I enjoy transforming ideas into **real-world digital products** and exploring ne
 
 <br><br>
 
-## 🔧 Tools & Platforms
+### 🔧 Tools & Platforms
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -151,7 +162,7 @@ I enjoy transforming ideas into **real-world digital products** and exploring ne
 ---
 
 <!-- ========================================================= -->
-<!--                  CURRENTLY WORKING ON                     -->
+<!--                   CURRENTLY WORKING ON                     -->
 <!-- ========================================================= -->
 
 # 🚀 Currently Working On
@@ -160,10 +171,10 @@ I enjoy transforming ideas into **real-world digital products** and exploring ne
 
 | 🚀 Area | 💡 Focus |
 |:---:|:---|
-| 💻 Web Development | Building Full-Stack Applications |
-| 📱 Mobile Development | Flutter & Dart Applications |
+| 💻 Web Development | Full-Stack Applications |
+| 📱 Mobile Development | Flutter & Dart |
 | 🤖 Artificial Intelligence | AI Integration & Automation |
-| 🎨 UI/UX | Modern Interfaces & User Experience |
+| 🎨 UI/UX | Modern Interfaces |
 | 🛡️ Cybersecurity | Secure Web Applications |
 | ⚙️ Backend | Django, Python & APIs |
 
@@ -172,13 +183,59 @@ I enjoy transforming ideas into **real-world digital products** and exploring ne
 ---
 
 <!-- ========================================================= -->
-<!--                       PROJECTS                            -->
+<!--                    FEATURED PROJECTS                       -->
 <!-- ========================================================= -->
+
+# 📂 Featured Projects
+
+### 🛒 E-Commerce Web Application
+
+A modern **Django-based E-Commerce platform** with authentication, products, cart functionality, database integration, and a responsive user interface.
+
+**Tech:** `Python` • `Django` • `HTML` • `CSS` • `JavaScript` • `MySQL`
+
+---
+
+### 📱 Mobile Application
+
+A modern mobile application developed using **Flutter & Dart**, focused on clean UI, responsive design, and useful functionality.
+
+**Tech:** `Flutter` • `Dart` • `Firebase`
+
+---
+
+### 🤖 AI Integration Projects
+
+Exploring ways to integrate **Artificial Intelligence** into modern web and mobile applications.
+
+**Tech:** `Python` • `AI APIs` • `Django` • `Flutter`
+
+---
+
+### 🛡️ Cybersecurity Projects
+
+Exploring **web security, secure coding practices, authentication, and application security**.
+
+**Tech:** `Python` • `Django` • `Web Security` • `Secure Coding`
 
 ---
 
 <!-- ========================================================= -->
-<!--                    LEARNING JOURNEY                       -->
+<!--                   DEVELOPMENT ROADMAP                      -->
+<!-- ========================================================= -->
+
+# 🗺️ My Development Roadmap
+
+<div align="center">
+
+<img src="./roadmap.svg" width="100%" alt="Mahda Cawl Development Roadmap">
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                  LEARNING JOURNEY                         -->
 <!-- ========================================================= -->
 
 # 🌱 Learning Journey
