@@ -13,8 +13,6 @@
 
 <div align="center">
 
-<br>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=mahda-cawl&label=Profile%20Views&color=blueviolet&style=for-the-badge)
 
 </div>
@@ -168,12 +166,6 @@ I enjoy transforming ideas into **real-world digital products** and exploring ne
 | ⚙️ Backend | Django, Python & APIs |
 
 </div>
-
----
-
-<!-- ========================================================= -->
-<!--                       PROJECTS                            -->
-<!-- ========================================================= -->
 
 ---
 
