@@ -1,17 +1,21 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Mahda%20Abdirahman&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Software%20Engineer%20|%20Flutter%20Developer%20|%20AI%20Explorer&descSize=18&descAlignY=62" width="100%" alt="Header Banner" />
+  <!-- Header Banner Dynamic -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=220&section=header&text=Mahda%20Abdirahman&fontSize=42&fontColor=00d2ff&animation=twinkling&desc=Software%20Engineer%20%E2%80%A2%20Flutter%20Developer%20%E2%80%A2%20AI%20Explorer&descSize=16&descColor=bc8cff&descAlignY=62" width="100%" alt="Header Banner" />
 
   <br />
 
-  <!-- Subtitle -->
-  <h2>🚀 Software Engineer & Mobile App Developer</h2>
+  <!-- Animated Typing / Glowing Title -->
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Turning+Ideas+into+Production+Apps;Software+Engineer+%26+Mobile+Dev;Flutter+%7C+Firebase+%7C+AI+Integration" alt="Typing Effect" />
+  </a>
 
-  <!-- Stats & Status Badges -->
+  <br /><br />
+
+  <!-- Custom Styled Badges (Views, Followers, Status) -->
   <p>
-    <img src="https://img.shields.io/badge/LOCATION-Hargeisa%2C%20Somaliland-0d1117?style=for-the-badge&logo=googlemaps&logoColor=58a6ff" alt="Location" />
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=00d2ff&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=00d2ff&style=for-the-badge&labelColor=333333" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=FOLLOWERS&style=for-the-badge&color=bc8cff&labelColor=333333" alt="Followers" />
     <img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20WORK-FFD700?style=for-the-badge&labelColor=333333" alt="Status" />
   </p>
 
