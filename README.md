@@ -177,7 +177,6 @@ I enjoy transforming ideas into **real-world digital products** and exploring ne
 
 
 
-**Tech:** `Python` • `Django` • `Web Security` • `Secure Coding`
 
 ---
 
