@@ -42,7 +42,6 @@
 <table>
 <tr>
 
-<td width="55%" valign="top">
 
 I'm **Mahda Cawl**, a passionate **Software Engineering student** interested in building modern, useful, and creative digital applications.
 
