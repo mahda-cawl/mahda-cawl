@@ -16,10 +16,6 @@
 
 <br><br>
 
-### 💻 Full-Stack Developer • 🎨 UI/UX Designer • 🤖 AI Engineer
-
-📍 **Hargeisa, Somaliland**
-
 </div>
 
 ---
@@ -32,13 +28,6 @@
 
 # 👋 Welcome to My Profile
 
-<img
-  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-  width="350"
-  alt="Coding Animation"
-/>
-
-### 🚀 Building ideas into real-world digital products
 
 </div>
 
